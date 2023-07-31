@@ -4,3 +4,9 @@ Hello, this project is from the course **(New) Responsive Web Design** offered b
 
 ---
 ![image](https://user-images.githubusercontent.com/129386460/229966116-b5e2a933-b5e9-43a8-ac85-b2063f5e07a1.png)
+
+#### Connect with me 🤝
+
+Twitter: [@jfmartinz](https://twitter.com/jfmartinz)<br>
+LinkedIn: [@jfmartinz](https://www.linkedin.com/in/jfmartinz/)<br>
+Github: [@jfmartinz](https://github.com/jfmartinz)
